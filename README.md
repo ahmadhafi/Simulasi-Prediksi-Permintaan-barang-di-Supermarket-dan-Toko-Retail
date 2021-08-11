@@ -1,0 +1,2 @@
+# Simulasi-prediksi-permintaan-barang-di-Supermarket-dan-toko-Retail
+Program ini bertujuan untuk membantu pelaku usaha terutama start-up yang belum memiliki sistem manajemen barang, program ini menggunakan bahasa pemrograman python dan menggunakan algoritma Machine Learning untuk memprediksi berapa jumlah permintaan barang yang akan terjadi pada beberapa bulan di masa depan dengan menggunakan algoritma machine learning, prediksi yang dihasilkan berasal dari dataset yaitu data penjualan sebelumnya
